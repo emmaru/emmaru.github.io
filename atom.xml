@@ -2,79 +2,73 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://emmaru.github.io/</id>
     <title>Ru.</title>
-    <updated>2020-02-02T15:24:33.558Z</updated>
+    <updated>2020-02-06T02:56:26.917Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://emmaru.github.io/"/>
-    <link rel="self" href="https://emmaru.github.io//atom.xml"/>
+    <link rel="self" href="https://emmaru.github.io/atom.xml"/>
     <subtitle>你已经在这个小小的角落浪费了你的生命，你也已经在世界上任何一个地方毁掉了它。</subtitle>
-    <logo>https://emmaru.github.io//images/avatar.png</logo>
-    <icon>https://emmaru.github.io//favicon.ico</icon>
+    <logo>https://emmaru.github.io/images/avatar.png</logo>
+    <icon>https://emmaru.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Ru.</rights>
     <entry>
+        <title type="html"><![CDATA[farackzip 使用方法]]></title>
+        <id>https://emmaru.github.io/post/farackzip-shi-yong-fang-fa</id>
+        <link href="https://emmaru.github.io/post/farackzip-shi-yong-fang-fa">
+        </link>
+        <updated>2020-02-06T02:47:20.000Z</updated>
+        <summary type="html"><![CDATA[<p>安装命令：<br>
+<code>brew install fcrackzip</code></p>
+]]></summary>
+        <content type="html"><![CDATA[<p>安装命令：<br>
+<code>brew install fcrackzip</code></p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Homebrew 安装软件时出现无写入权限报错时的解决方案]]></title>
+        <id>https://emmaru.github.io/post/homebrew-an-zhuang-ruan-jian-shi-chu-xian-wu-xie-ru-quan-xian-bao-cuo-shi-de-jie-jue-fang-an</id>
+        <link href="https://emmaru.github.io/post/homebrew-an-zhuang-ruan-jian-shi-chu-xian-wu-xie-ru-quan-xian-bao-cuo-shi-de-jie-jue-fang-an">
+        </link>
+        <updated>2020-02-06T02:44:11.000Z</updated>
+        <summary type="html"><![CDATA[<pre><code>Error: The following directories are not writable by your user:
+/usr/local/share/man/man5
+/usr/local/share/man/man7
+
+You should change the ownership of these directories to your user.
+  sudo chown -R $(whoami) /usr/local/share/man/man5 /usr/local/share/man/man7
+
+And make sure that your user has write permission.
+  chmod u+w /usr/local/share/man/man5 /usr/local/share/man/man7 
+</code></pre>
+]]></summary>
+        <content type="html"><![CDATA[<pre><code>Error: The following directories are not writable by your user:
+/usr/local/share/man/man5
+/usr/local/share/man/man7
+
+You should change the ownership of these directories to your user.
+  sudo chown -R $(whoami) /usr/local/share/man/man5 /usr/local/share/man/man7
+
+And make sure that your user has write permission.
+  chmod u+w /usr/local/share/man/man5 /usr/local/share/man/man7 
+</code></pre>
+]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[十三邀——唐诺采访]]></title>
-        <id>https://emmaru.github.io//post/shi-san-yao-tang-nuo-cai-fang</id>
-        <link href="https://emmaru.github.io//post/shi-san-yao-tang-nuo-cai-fang">
+        <id>https://emmaru.github.io/post/shi-san-yao-tang-nuo-cai-fang</id>
+        <link href="https://emmaru.github.io/post/shi-san-yao-tang-nuo-cai-fang">
         </link>
         <updated>2020-02-02T08:58:00.000Z</updated>
+        <summary type="html"><![CDATA[<p><strong>台北有点虚无的气氛，有种挽歌的味道。你什么时候有这种熄灭的感觉？</strong><br>
+《大唐西域记》里头，讲说去圣邈远宝化成宝石，但是我们没有什么圣人，只是历史的因缘际会使得南方的一个小城市，一些风云际会过去以后，就被打回原形。慢慢这个地方变得不重要了，有可能当初只是幻觉，但是这个幻觉也相应的让大家有一种生活态度和生命态度比如说——过去台湾因为中国近代史的风云际会的关系使得这个地方出现在一个奇怪的历史位置。</p>
+]]></summary>
         <content type="html"><![CDATA[<p><strong>台北有点虚无的气氛，有种挽歌的味道。你什么时候有这种熄灭的感觉？</strong><br>
 《大唐西域记》里头，讲说去圣邈远宝化成宝石，但是我们没有什么圣人，只是历史的因缘际会使得南方的一个小城市，一些风云际会过去以后，就被打回原形。慢慢这个地方变得不重要了，有可能当初只是幻觉，但是这个幻觉也相应的让大家有一种生活态度和生命态度比如说——过去台湾因为中国近代史的风云际会的关系使得这个地方出现在一个奇怪的历史位置。</p>
-<p>台北市除了宗教战争以外，现代化的重要的辩论冲突，问题全都在这里发生过（浓缩得特别多），挤在这样的时间里头，很长时间是把一个大国的灵魂藏在小小的身体里面，但是现在真相毕露了，台湾知道自己是一个小地方。所以年轻一代人开始完全不关心历史不关心世界，有一种虚无感，一种放弃的感觉。也就是村上的“小确幸”，村上自己都没有讲那么多，但是在台湾就被讲得很厉害。抛开未来逆袭命运的潜在可能，<strong>台湾很早就走过了那个高峰点，这被称为折返。</strong> 台湾的顶峰应该是在民国，世界充满机会。</p>
-<p>Q：那民国那个时候世界充满了扩张的欲望的时候，作为一个写作者，这对你来说意味着什么？</p>
-<p>D：那时候这个世界打开你会有一种兴奋感，它会有各种尝试。如果以华人世界以中国的规模，台北在这半个世纪以来文学成就是非常惊人的。如此贫薄的时代，虽然与大陆始终在对峙，事实上没有贫穷，没有战乱，没有饥馑，没有瘟疫。在这种时候，出现了爆发，各种英勇的尝试。好摘的果子都被摘光了。1950年出现的生人，包括张大春，那个时候的书写尝试性十足，侵略性十足，实验性十足。</p>
-<p>现在，读者的消失，整个出版界的萎缩，如果这时候的书写写得好的话，纵深感和思维的纵深感会出现不一样的光景，回事那种在比较兴奋昂扬的年代，不会认真去看到和捡拾到的东西。文学的个体性事实上并不那么依赖或那么单调的依赖干环境的关系。</p>
-<p>王安忆讲书写不是一个早慧的行业。诗除外吧，十七八岁谈个恋爱的时候就能创造。诗是一种巨大而简单的东西，拜伦、雪莱、普希金这些都是，有些天分有些锐利的东西有意义，毕竟有些基础知识是需要时间的，但是你要种一颗京都圆山公园的垂樱需要400年，就是需要400年。当你身边发现有一个了不起的天才，像阿玛迪斯那样的，你怎么处理这件事情？</p>
-<p>我身边的朋友始终有那种年轻的时候有惊人的才分，一路走来不断不成的经历对我来说很有趣，有些人是天生的小说家，对他们来说这件事情有可能显得轻易，也有可能他们会少了那种在思考，甚至被折磨的那种对书写的一个更自觉性的理解，被逼迫的理解。</p>
-<p>在这个早的过程中如果人太自恋，太在意，会很痛苦。会觉得自己暗淡，各种怀疑自己，我对不会，因为那个世界的真实感和细节感太丰富了，使得你不会去想那些东西，因为你本来就喜欢这个，所以不会有那种一无所有的生命投注一样（阅读）。</p>
-<p>比起一种在阅读的读者多了一个文学的自觉，用比较戏剧性的说法，你从这个世界里得到那么多，你该还回去一点吧。</p>
-<p>阿城的启蒙书是房龙的《人类的故事》，他在《常识与通识》的笔调不同以往，话都讲半句，他说这是房龙的笔调，我是这样得到的，所以应该还一本回去。</p>
-<p>中学读书完全是毫无秩序的，随机的，野蛮的完成。我都是这样跌跌撞撞读过来的。</p>
-<p>有些基础性的沉闷性的东西是非要啃下去不可的。</p>
-<p>一个好的作家应该写出这一代人自身的处境，这也是给历史一个交代，我们的生命方式，我们面对的困扰</p>
-<p>所谓的胆怯不是真的怕事而是说，你会觉得冒犯到这个专业里头勤勤恳恳一辈子的人。</p>
-<p>强有力和广阔的好奇心是需要巨大的能量来支持的</p>
-<p>Q 会担心过多的知识和过分强烈的自我，怎么自我分析或者是自觉意识对压抑自己的创造力或者表达吗？</p>
-<p>D 这就是卡尔维诺面对那个千禧年的第五篇的最后结尾。他说过多的渊博会不会丧失自我，会不会使得我的主体性消失掉。但是我们是谁，我们难道不是由我买读过的书，我们经理的事，我们对世界的印象所构成的吗？每个人都是一个复杂的集成。我们抽离掉那个我是什么？卡尔维诺进一步讲，而且我心更甚至有其他，有时候我们通过一个书写或者一个思维进入到那些不一样但是相似我的自我，你进入到他人的视角可以领悟到你生命的个体的局限性。</p>
-<p>《布朗神父探案》你进入到一个相似的世界或者一个不会说话的个体上，使得你的世界被扩展开来。但是卡尔维诺也有困扰，毕竟我不能保持高度的简单纯净性，所以它的力量会消失，它的光芒会互相冲突。你的书写和思维可能变得困难和复杂。</p>
-<p>不信任语言因为语言是一种太简单随机的东西，太光滑可以跳到任何地方去，所以你必须用文字把它固着起来，语言没有办法负载那种复杂度。</p>
-<p>这样也导致你无法说出巨大简单的话，甚至是人家期待的话，</p>
-<p>用博尔赫斯的话讲，到这个年纪，通过深思熟虑，你再也讲不出令人满意的答案。如果是我的啰嗦，大概是我想描述整个思维的线路。博尔赫斯就说，如果你想模仿一个人的说话的方式语调姿势（甚至是文学思想的模仿），是因为你想学习他那样想事情，站在他的位置用他的视角去想事情。这才能够让你突破有限的我们的局限性和单调性。</p>
-<p>自我不会消失，因为他已经复杂到难以简单说明。</p>
-<p>有时候一路走来不是你的选择</p>
-<p>萨义德《晚期风格》，你再也没有一个晚可以超越。你就是一路走下去。</p>
-<p>博尔赫斯喜欢的时间有两种算法，我从出生到现在，时间正向着死亡流去。另一种算法，从死亡数倒退回来。</p>
-<p>你还能读多久的书，你还能走多远</p>
-<p>库尔特冯内古特《时间地震》，一种是我的人生欧文能说的十万了我对的都交代完毕。你就在那个世界里头，有一种晚年的自由，世界会觉得你不要多嘴就好。某种程度上来讲它的自由度可能最高，晚年的有趣就在这里，它的发生面最大，也许会有各种奇奇怪怪的可能。你就工作到最后，因为你已经没有额外的目标了。</p>
-<p>对于书写者来说，壮年时期的作品最好，究竟是书写者已经贡献了最好的东西，还是某种复杂难言使得书写变得困难。或者是我太用年轻的标准去阅读我们所得到的作品。博尔赫斯讲得，所有的文字阅读都需要实体经验的配合。你才能打开他，感同身受。人的经验也是金字塔状，但是30岁的经验和记忆你得要超过三十岁才有。</p>
-<p>台北不能说老年，他不是一个有机体，它毕竟是一个 各种力量纵横联合的结果。一方面台湾被打回原型，知道自己只是南方的一个小岛，从一个过度夸张的大国灵魂，缩回来可能好更严重。曾经在冷战里，代表世界权力的界限，隐形的围墙拆掉了，所以台湾在某种程度上回到了真相。他没有了重要的位置。新加坡控制马六甲海峡，而且人的行为能力的改变导致里地理位置的改变。（当年通州，是大运河北端，漕运转进京师，人货品都在哪里集中，人类的活动方式改变，通州就沉睡了。</p>
-<p>村上，在某种意义上精神退却的年代，回到孔子或者左传是一种什么样的感觉？我在应然世界的思维待的蛮长的，就不会有乍见仓海之阔轮船之奇的那种惊讶。只会觉得说不可能了。</p>
-<p>那个敏感的感知能力，对一个文体的自认而然的掌握</p>
-<p>卡尔维诺帮费里尼的书写得序，他说费里尼是意大利电影高度最高最辉煌的年代。如果是不从费里尼讲，还有一个意大利时期叫新写实主义，当中不止费里尼，还有德西卡等一干人。德西卡和费里尼不一样，他比较走向生活细节，所以很鲜活。费里尼就是那种想象世界里迸发出来的那个，那从所谓的新写实主义，从偏左翼的，德西卡《单车失窃记》《昨日、今日、明日》，卡尔维诺说因为偷偷看电影，要赶在父亲回家前回家，所以所有电影他都没投看到结尾，结尾都是他自己变出来的。卡尔维诺很委婉，很温文，很有礼貌的将，他很尊敬新写实主义那个时期的意大利电影，但是从来没有真心热爱过他。（费里尼我们讲电影的可能性依旧将他放在最高处）</p>
-<p>米兰昆德拉说电影有两种可能，一种是作为艺术附载的形式，一种是享乐形式，他觉得享乐赢了。电影这种载体对于文学来讲太有限了，这是较为能被一般人所接受的载体。当深度增加的时候，它自认而然就会退去。负载的东西来说太少了，对我来说比较没有意义。第二个是他的代价太大了，成本太大，就会保守。而书的成本的小得多，它的自由度、心理压力、可能性是完全不同的。</p>
-<p>人类但凡有一些狂妄的，不恰当的念头，他都可能被实现。书可以。</p>
-<p>解释者会碰到两个问题，第一，你的解释到什么地方。博尔赫斯描述一个作者， 他因为认同的，他程度最差的或者最低的那一群读者，所以他的书写逐渐变成一种宗教，甚至是一种宣传。公约数就是那么一回事，越多数的公约数大概只有1，你的倍值越大，你的公倍数的那个就约窄迫。</p>
-<p>《往事追忆录》</p>
-<p>唐诺觉得，作为解释者，你做得顺利变得流畅，变得知道如何应对这些东西，你设定到读者你就不会去碰那些困难的东西。你不去想，不会想。</p>
-<p>萨瓦托，只有博尔赫斯是作者的作者，只有作者才能读懂。</p>
-<p>把自己放在那个位置，你才能捕捉到某些东西。</p>
-<p>你连那个温暖你都给你起。</p>
-<p>我内心在不安，不安的原因在于，这是一个自由的工作，没有人约束，所以相对来讲它非常困难。你很容易涣散掉。</p>
-<p>海明威讲的，不做任何有意义的事情。</p>
-<p>诗：流畅而随便。</p>
-<p>纳博科夫，海明威，马尔克斯，白天是个空挡，晚上是个宴会。丈量。</p>
-<p>乐观其神。</p>
-<p>生活的很多繁华面，看起来好像各种可能性，但是以我的能力所及来讲的话，重复性太高了。</p>
-<p>你每天靠着本能就能做完所有事情，基本上生活就是这么一回事。</p>
-<p>格雷厄姆·格林那样，那边有事往哪边去，那是一个特殊的人，我做不到那一点。</p>
-<p>梅尔维尔，小说可以当人类学读，那时候的生命样态从事怎样的活动，你需要实感的生命体验去做解码和支撑。</p>
-<p>胡兰成，对中国乡间庶民社会起码的描述是吓人的，非常好。</p>
-<p>蒙田，老年书写的典型。蒙田的警句不多，也是老年的那种唠唠叨叨的人吧。</p>
-<p>卡尔维诺，你又要和世界隔离，可是你又不至于看不到世界的那个微妙趣味。</p>
 ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://emmaru.github.io//post/hello-gridea</id>
-        <link href="https://emmaru.github.io//post/hello-gridea">
+        <id>https://emmaru.github.io/post/hello-gridea</id>
+        <link href="https://emmaru.github.io/post/hello-gridea">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
@@ -82,25 +76,6 @@
 ]]></summary>
         <content type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
 ✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
-<!-- more -->
-<p><a href="https://github.com/getgridea/gridea">Github</a><br>
-<a href="http://hvenotes.fehey.com/">Gridea 主页</a><br>
-<a href="http://fehey.com/">示例网站</a></p>
-<h2 id="特性">特性👇</h2>
-<p>📝  你可以使用最酷的 <strong>Markdown</strong> 语法，进行快速创作</p>
-<p>🌉  你可以给文章配上精美的封面图和在文章任意位置插入图片</p>
-<p>🏷️  你可以对文章进行标签分组</p>
-<p>📋  你可以自定义菜单，甚至可以创建外部链接菜单</p>
-<p>💻  你可以在 <strong>𝖶𝗂𝗇𝖽𝗈𝗐𝗌</strong> 或 <strong>𝖬𝖺𝖼𝖮𝖲</strong> 设备上使用此客户端</p>
-<p>🌎  你可以使用 <strong>𝖦𝗂𝗍𝗁𝗎𝖻 𝖯𝖺𝗀𝖾𝗌</strong> 或 <strong>Coding Pages</strong> 向世界展示，未来将支持更多平台</p>
-<p>💬  你可以进行简单的配置，接入 <a href="https://github.com/gitalk/gitalk">Gitalk</a> 或 <a href="https://github.com/SukkaW/DisqusJS">DisqusJS</a> 评论系统</p>
-<p>🇬🇧  你可以使用<strong>中文简体</strong>或<strong>英语</strong></p>
-<p>🌁  你可以任意使用应用内默认主题或任意第三方主题，强大的主题自定义能力</p>
-<p>🖥  你可以自定义源文件夹，利用 OneDrive、百度网盘、iCloud、Dropbox 等进行多设备同步</p>
-<p>🌱 当然 <strong>Gridea</strong> 还很年轻，有很多不足，但请相信，它会不停向前🏃</p>
-<p>未来，它一定会成为你离不开的伙伴</p>
-<p>尽情发挥你的才华吧！</p>
-<p>😘 Enjoy~</p>
 ]]></content>
     </entry>
 </feed>
