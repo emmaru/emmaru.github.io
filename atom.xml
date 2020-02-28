@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://emmaru.github.io/</id>
     <title>Ru.</title>
-    <updated>2020-02-28T12:38:00.174Z</updated>
+    <updated>2020-02-28T12:52:41.254Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://emmaru.github.io/"/>
     <link rel="self" href="https://emmaru.github.io/atom.xml"/>
@@ -11,38 +11,53 @@
     <icon>https://emmaru.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Ru.</rights>
     <entry>
+        <title type="html"><![CDATA[审美消费主义与摄影暴力]]></title>
+        <id>https://emmaru.github.io/post/shen-mei-xiao-fei-zhu-yi-yu-she-ying-bao-li</id>
+        <link href="https://emmaru.github.io/post/shen-mei-xiao-fei-zhu-yi-yu-she-ying-bao-li">
+        </link>
+        <updated>2020-02-28T12:42:57.000Z</updated>
+        <summary type="html"><![CDATA[<p>“需要通过照片来增强现实的体验是一种审美消费主义，现在每个人都沉迷其中。”</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>“需要通过照片来增强现实的体验是一种审美消费主义，现在每个人都沉迷其中。”</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[危险地创造——阿尔伯特·加缪和艺术家的力量与责任]]></title>
+        <id>https://emmaru.github.io/post/wei-xian-di-chuang-zao-a-er-bo-te-jia-mou-he-yi-zhu-jia-de-li-liang-yu-ze-ren</id>
+        <link href="https://emmaru.github.io/post/wei-xian-di-chuang-zao-a-er-bo-te-jia-mou-he-yi-zhu-jia-de-li-liang-yu-ze-ren">
+        </link>
+        <updated>2020-02-28T12:41:34.000Z</updated>
+        <summary type="html"><![CDATA[<p>1957年12月14日，就在他获得诺贝尔文学奖的致辞后仅四天，阿尔伯特·加缪（Albert Camus）在瑞典乌普萨拉大学作了另一场演讲，题为“危险地创造：艺术家的力量和责任，他在辩论中说：“今天的创造意味着危险地创造。每一份出版物都是有意为之的举动，这种举动使我们容易受到一个世纪的激情的束缚。”</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>1957年12月14日，就在他获得诺贝尔文学奖的致辞后仅四天，阿尔伯特·加缪（Albert Camus）在瑞典乌普萨拉大学作了另一场演讲，题为“危险地创造：艺术家的力量和责任，他在辩论中说：“今天的创造意味着危险地创造。每一份出版物都是有意为之的举动，这种举动使我们容易受到一个世纪的激情的束缚。”</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[观影笔记]]></title>
+        <id>https://emmaru.github.io/post/guan-ying-bi-ji</id>
+        <link href="https://emmaru.github.io/post/guan-ying-bi-ji">
+        </link>
+        <updated>2020-02-28T12:40:09.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[红灯区]]></title>
+        <id>https://emmaru.github.io/post/hong-deng-qu</id>
+        <link href="https://emmaru.github.io/post/hong-deng-qu">
+        </link>
+        <updated>2020-02-28T12:39:39.000Z</updated>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[阿伦特怎么说——读《艾希曼在耶路撒冷》]]></title>
         <id>https://emmaru.github.io/post/a-lun-te-zen-me-shuo-du-lesslessai-xi-man-zai-ye-lu-sa-leng-greatergreater</id>
         <link href="https://emmaru.github.io/post/a-lun-te-zen-me-shuo-du-lesslessai-xi-man-zai-ye-lu-sa-leng-greatergreater">
         </link>
         <updated>2020-02-28T10:04:15.000Z</updated>
-        <summary type="html"><![CDATA[<pre><code>  阿伦特，20世纪最伟大、最具原创性的思想家、政治理论家之一。在阿伦特看来，官僚主义是每个人被剥夺政治自由，行使权力的政府的形式。她认为现在社会存在着责任分散的悖论，即官僚主义不管是个人还是精英，这是一种病态的作用。没有人承担责任，没有人统治，只能称之为无人化统治。这种无人统治的状态是造成当今世界范围的叛乱事件的原因之一，它削弱和模糊，甚至抹杀了个体的道德责任，从而导致了艾希曼这样的人产生，导致了奥斯维辛的出现。
-  阿道夫·艾希曼就职于希姆莱的帝国保安总局，负责把欧洲犹太人遣送至奥斯维辛关押，是德国纳粹对犹太人大屠杀的主要执行人。</code></pre>
+        <summary type="html"><![CDATA[<p>阿伦特，20世纪最伟大、最具原创性的思想家、政治理论家之一。在阿伦特看来，官僚主义是每个人被剥夺政治自由，行使权力的政府的形式。她认为现在社会存在着责任分散的悖论，即官僚主义不管是个人还是精英，这是一种病态的作用。没有人承担责任，没有人统治，只能称之为无人化统治。这种无人统治的状态是造成当今世界范围的叛乱事件的原因之一，它削弱和模糊，甚至抹杀了个体的道德责任，从而导致了艾希曼这样的人产生，导致了奥斯维辛的出现。<br>
+阿道夫·艾希曼就职于希姆莱的帝国保安总局，负责把欧洲犹太人遣送至奥斯维辛关押，是德国纳粹对犹太人大屠杀的主要执行人。</p>
 ]]></summary>
-        <content type="html"><![CDATA[<pre><code>  阿伦特，20世纪最伟大、最具原创性的思想家、政治理论家之一。在阿伦特看来，官僚主义是每个人被剥夺政治自由，行使权力的政府的形式。她认为现在社会存在着责任分散的悖论，即官僚主义不管是个人还是精英，这是一种病态的作用。没有人承担责任，没有人统治，只能称之为无人化统治。这种无人统治的状态是造成当今世界范围的叛乱事件的原因之一，它削弱和模糊，甚至抹杀了个体的道德责任，从而导致了艾希曼这样的人产生，导致了奥斯维辛的出现。
-  阿道夫·艾希曼就职于希姆莱的帝国保安总局，负责把欧洲犹太人遣送至奥斯维辛关押，是德国纳粹对犹太人大屠杀的主要执行人。</code></pre>
+        <content type="html"><![CDATA[<p>阿伦特，20世纪最伟大、最具原创性的思想家、政治理论家之一。在阿伦特看来，官僚主义是每个人被剥夺政治自由，行使权力的政府的形式。她认为现在社会存在着责任分散的悖论，即官僚主义不管是个人还是精英，这是一种病态的作用。没有人承担责任，没有人统治，只能称之为无人化统治。这种无人统治的状态是造成当今世界范围的叛乱事件的原因之一，它削弱和模糊，甚至抹杀了个体的道德责任，从而导致了艾希曼这样的人产生，导致了奥斯维辛的出现。<br>
+阿道夫·艾希曼就职于希姆莱的帝国保安总局，负责把欧洲犹太人遣送至奥斯维辛关押，是德国纳粹对犹太人大屠杀的主要执行人。</p>
 ]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[日推]]></title>
-        <id>https://emmaru.github.io/post/ri-tui</id>
-        <link href="https://emmaru.github.io/post/ri-tui">
-        </link>
-        <updated>2020-02-27T02:53:51.000Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[扥]]></title>
-        <id>https://emmaru.github.io/post/tuo</id>
-        <link href="https://emmaru.github.io/post/tuo">
-        </link>
-        <updated>2020-02-27T02:37:12.000Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[氦气建立了您从未听说过的最大的无线网络]]></title>
-        <id>https://emmaru.github.io/post/hai-qi-jian-li-liao-nin-cong-wei-ting-shuo-guo-de-zui-da-de-wu-xian-wang-luo</id>
-        <link href="https://emmaru.github.io/post/hai-qi-jian-li-liao-nin-cong-wei-ting-shuo-guo-de-zui-da-de-wu-xian-wang-luo">
-        </link>
-        <updated>2020-02-27T02:25:46.000Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[# NO.1 News at a glance]]></title>
